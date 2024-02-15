@@ -1,0 +1,2 @@
+This folder contains the backend information with respect to the database also.
+I used Eclipse IDE for the development of this application.
