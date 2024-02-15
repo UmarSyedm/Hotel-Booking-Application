@@ -1,0 +1,3 @@
+Using ReactJS, Bootstrap.
+
+The frontend has mutiple folders such as admin, auth, bookings, common, home, layout, room, utils, which were all necessary for the designing of the website application and intgration with backend.
